@@ -1,15 +1,8 @@
-<img src="public/images/uim-logo-round_192x192.png" alt="logo" width="150" height="150" align="left" />
+# SSPanel-UIM-hulson
 
-<h1>SSPanel UIM</h1>
+This is a custom-maintained fork of SSPanel-UIM, focused on easier deployment, enhanced CI workflows, and modern proxy protocols. Optimized for self-hosting and use with the latest technologies.
 
-> Across the Great Wall we can reach every corner in the world
-
-<br>
-<br>
-
-## TL;DR
-
-SSPanel-UIM is a multi-purpose proxy service management system designed for Shadowsocks(2022) / V2Ray / Trojan / TUIC protocol.
+---
 
 ## Features
 
@@ -24,32 +17,33 @@ SSPanel-UIM is a multi-purpose proxy service management system designed for Shad
 - Deep integration of large language models, support intelligent replies to tickets, document generation, and other functions
 - One-click access to OpenAI, Google AI, Vertex AI, Hugging Face Hosted API, Cloudflare Workers AI, Anthropic, and other large language model services
 
+---
+
 ## Installation
 
 SSPanel UIM requires the following programs to be installed and run normally:
 
 - Git
-- Nginx（HTTPS is REQUIRED）
-- PHP 8.2+ （OPcache+JIT is highly recommended）
-- MariaDB 10.11+（Disable strict mode）
+- Nginx (HTTPS is REQUIRED)
+- PHP 8.2+ (OPcache+JIT is highly recommended)
+- MariaDB 10.11+ (Disable strict mode)
 - Redis 7.0+
+
+---
 
 ## Community
 
 Telegram Group: [SSUnion](https://t.me/SSUnion)
 
-
-## Features
-
-- MIT Licensed
-- GitHub Actions automatic build included
-- Personal deployment optimizations by Hulson Zhao
+---
 
 ## Maintainer
 
 - **Name:** Hulson Zhao
 - **Email:** wowhulson@gmail.com
 
+---
+
 ## License
 
-[MIT License](blob/dev/LICENSE)
+[MIT License](./LICENSE)
