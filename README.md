@@ -38,10 +38,18 @@ SSPanel UIM requires the following programs to be installed and run normally:
 
 Telegram Group: [SSUnion](https://t.me/SSUnion)
 
+This is a custom-maintained fork of SSPanel-UIM, focused on easier deployment and enhanced CI workflows.
 
-## Sponsors
+## Features
 
-[![](.github/jetbrains.png)](https://www.jetbrains.com/?from=SSPanel-UIM)
+- MIT Licensed
+- GitHub Actions automatic build included
+- Personal deployment optimizations by Hulson Zhao
+
+## Maintainer
+
+- **Name:** Hulson Zhao
+- **Email:** wowhulson@gmail.com
 
 ## License
 
